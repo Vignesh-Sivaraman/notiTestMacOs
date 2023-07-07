@@ -1,0 +1,17 @@
+{
+  "name": "electron-notification",
+  "version": "1.0.0",
+  "description": "Custom notification in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Radhesh Khanna",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.5"
+  }
+}
